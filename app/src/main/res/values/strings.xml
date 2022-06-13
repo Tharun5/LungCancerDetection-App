@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Lung Cancer Detection</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sym">Symptoms</string>
+    <string name="tre">Treatment</string>
+
+
+    <string name="ade">Adenocarcinoma</string>
+    <string name="ade_def">Adenocarcinoma is a type of non-small cell lung cancer (NSCLC).
+        It usually begins in the outer edges of the lungs and the lining of the bronchi (airway passages into the lungs).
+        It is different from other types of lung carcinomas, which are usually more centrally located in the lungs.
+        Adenocarcinoma grows more slowly than other types of lung cancer and forms smaller masses,
+        but it can also metastasize in its early stages.\n</string>
+
+    <string name="ade_sym">
+          ✔ Difficulty breathing\n✔ Unexplained weight loss\n✔ Hoarseness when speaking\n✔ Chest pain\n✔ Feeling tired or weak\n
+    </string>
+
+    <string name="ade_tre">
+         ✔ Immunotherapy\n✔ Targeted therapy\n✔ Radiation therapy\n
+    </string>
+
+    <string name="squ">Squamous cell carcinoma </string>
+    <string name="squ_def">Squamous cell carcinomas start in squamous cells,
+        which are flat cells that line the inside of the airways in the lungs.
+        They are often linked to a history of smoking and tend to be found in the central part of the lungs,
+        near a main airway (bronchus).\n</string>
+    <string name="squ_sym">
+        ✔ Shortness of breath and wheezing\n✔ Hoarseness of the throat\n✔ Swelling of the neck and face\n✔ Bloody or rust colored sputum\n✔ Pain and weakness in the shoulder, arm, or hand\n
+    </string>
+    <string name="squ_tre">
+        ✔ Radiation therapy\n✔ Chemotherapy\n✔ Angiogenesis inhibitors\n
+    </string>
+
+
+    <string name="can_def">
+    \nLung cancer is a type of cancer that begins in the lungs.
+        Your lungs are two spongy organs in your chest that take in oxygen when you inhale and release carbon dioxide when you exhale.
+        Lung cancer is the leading cause of cancer deaths worldwide. People who smoke have the greatest risk of lung cancer,
+        though lung cancer can also occur in people who have never smoked.\n
+    </string>
+
+    <string name="ty_can">Types of Lung Cancer</string>
+
+    <string name="ty_can_nam">
+       ✔ Small cell lung cancer\n✔ Non-small cell lung cancer\n
+    </string>
+
+    <string name="sm_can">Small Cell Lung Cancer</string>
+
+    <string name="sm_can_def">Small cell lung cancer occurs almost exclusively in heavy smokers
+        and is less common than non-small cell lung cancer.\n
+    </string>
+
+    <string name="lc_can">Non-Small Cell Lung Cancer</string>
+
+    <string name="lc_can_def">Non-small cell lung cancer is an umbrella term for several types of lung cancers.
+        Non-small cell lung cancers include squamous cell carcinoma, adenocarcinoma and large cell carcinoma.\n
+    </string>
+
+    <string name="ty_lc"> Types of Non-Small Cell Lung Cancer</string>
+
+    <string name="ty_lc_nam">
+        ✔ Adenocarcinoma\n✔ Squamous Cell Carcinoma \n✔ Large Cell Carcinoma\n
+
+    </string>
+    <string name="lc"> Large Cell Carcinoma</string>
+
+    <string name="lc_def">
+        Large cell carcinoma is a type of NSCLC.
+        The National Cancer Institute state that large cell carcinoma is a type of cancer that can begin in several
+        types of large cells. As the name suggests, these cancer cells
+        appear larger than typical cancer cells when viewed under a microscope.
+    </string>
+
+    <string name="info">
+        The aim of the application is to predict Lung cancer type by taking input as CT image of lungs.\n\nThe App uses VGG16 CNN Model to predict the Cancer type.\n
+    </string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="lung_cancer">Lung Cancer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="outcomes">✔ Adenocarcinoma\n✔ Squamous Cell Carcinoma \n✔ No Cancer Cell Detected\n</string>
+    <string name="developers">• Shaik Nayab Rasool\n• Pandillapalli Sai Pramod\n• Tharun Pattela\n</string>
+    <string name="Faculty">• Dr. Premaladha J\n• Mr. Saravanan P\n• Mr. Ananthakrishnan S</string>
+</resources>
